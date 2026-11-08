@@ -42,10 +42,10 @@ arduino ide
 | Component    | Quantity | Description         | Source                       | Price |
 | ------------ | -------: | ------------------- | ---------------------------- | ----: |
 | ESP32-C3     |        1 | Microcontroller     | [link](https://robu.in/product/seeed-studio-xiao-esp32c3-tiny-mcu-board-with-wi-fi-and-ble-battery-charge-supported-power-efficiency-and-rich-interface/) | 749  |
-| tft Display |        1 | Small display       | [link](https://robocraze.com/products/0-96in-oled-display-module-4pin) |169 |
+| tft Display |        1 | Small display       | [link](https://robu.in/product/2-4-inch-spi-interface-240x320-touch-screen-tft-display-module/) |700 |
 | switches  |        3 | User input buttons  | [link](https://amzn.in/d/0aKbDkSN) | 359 |
-| PCB          |        1 | Custom-designed PCB | [link](https://jlcpcb.com/)  | 1330|
-| MPU6050 | 1 | 6-axis motion sensor module (GY-521) | [Link](https://robocraze.com/products/mpu-6050-triple-axis-accelerometer-gyroscope-module) | 151 |
+| PCB          |        1 | Custom-designed PCB | [link](https://jlcpcb.com/)  | 375 |
+| buzzer | 1 | alarm sound | [Link](https://robu.in/product/1-month-warranty-1248/) | 151 |
 
 
 
