@@ -36,7 +36,7 @@ And then I decided to make a game console, switching from the idea of an idea bo
 
 I saw multiple videos and saw how to make this and all that stuff datasheets they cooked me fr. Then I saw which microcontroller I can use. I used ESP32 C3 for the idea box but the pins were getting less so I had to shift to ESP32 S3 WRM1n8r8. Then I added an audio amplifier and a display, which is an 8-pin display, and then I added 9 switches. 4 of the switches are useful for up, down, left, and right, and the A button and B button are for selecting options of the game on and off button start button
 
-![Screenshot 2026-11-06 094016](https://halflife.hackclub-assets.com/sessions/k9cK7RFJqruSmBgZjJV0pElVN8uP2ZCX/e73ea8c381fe10aba8148a5680f5be2667d20485e895f5b581d07cb075e9f988.png)
+![Screenshot 2026-11-06 134316](https://halflife.hackclub-assets.com/sessions/k9cK7RFJqruSmBgZjJV0pElVN8uP2ZCX/aede90ab3dcd277c3dc18814a12e53243fc4e85f4cd6ab4078a4428929e642db.png)
 
 Because I decided that I'll put multiple games with the SD card storage, whenever I make a game I can store that game and play that game in the game console of my own, which is going to be the best feeling. Yeah that's how I thought.
 
