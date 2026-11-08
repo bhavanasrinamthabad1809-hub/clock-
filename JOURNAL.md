@@ -70,8 +70,6 @@ I realized that if I continue on the game console itself, the project is not goi
 
 Then I just changed the plan from the game console to an alarm clock. Since I already worked with ESP32 C3 and the display, I changed the display from a normal one to an OLED to TFT because I've not worked with TFT. I wanted something new to work with so I worked with a TFT display and the buzzer is the same. Then I added all these components and then I just assigned the footprints for them, which was also very simple because I already worked with them.
 
-![Screenshot 2026-10-29 205250](https://halflife.hackclub-assets.com/sessions/k9cK7RFJqruSmBgZjJV0pElVN8uP2ZCX/c2d4db85c35a4d46134f2d892cf036025ccfdd29fc5e632a3183c060deeb9e63.png)
-
 [Timelapse](https://lookout.hackclub.com/api/media/50c65659-8328-4357-befd-074eacfdd03b/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/2ce59407-7b97-47b3-b2c0-2d56650512f2/video.mp4)
